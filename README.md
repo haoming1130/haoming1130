@@ -4,7 +4,7 @@
 
 ### 百万编程笔记库:https://www.yuque.com/icu0
 
-### 我的学习博客:https//www.xmingblog.top
+### 我的学习博客:https://www.xmingblog.top
 
 ![image](https://user-images.githubusercontent.com/84832795/212478754-bb2b6468-c2ef-486b-ae8b-a79a0faf715d.png)
 <br/>
